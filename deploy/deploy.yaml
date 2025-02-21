@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: demo-app
-        image: 1nfosecsingh/demo-app:v20250221210656
+        image: sampatel8543/demo-app:v20250221210656
         ports:
         - containerPort: 5000
